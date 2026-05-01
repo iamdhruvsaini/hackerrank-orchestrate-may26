@@ -1,4 +1,9 @@
-# Add your dependencies here, one per line.
-# Example:
-# pandas
-# numpy
+pandas
+python-dotenv
+chromadb
+openai
+anthropic
+google-genai
+tqdm
+sentence-transformers
+groq
